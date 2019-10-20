@@ -1,0 +1,7 @@
+E:\2k1s\LAB\OOP\LAB_08\LAB_08\bin\Debug\LAB_08.exe.config
+E:\2k1s\LAB\OOP\LAB_08\LAB_08\bin\Debug\LAB_08.exe
+E:\2k1s\LAB\OOP\LAB_08\LAB_08\bin\Debug\LAB_08.pdb
+E:\2k1s\LAB\OOP\LAB_08\LAB_08\obj\Debug\LAB_08.csprojAssemblyReference.cache
+E:\2k1s\LAB\OOP\LAB_08\LAB_08\obj\Debug\LAB_08.csproj.CoreCompileInputs.cache
+E:\2k1s\LAB\OOP\LAB_08\LAB_08\obj\Debug\LAB_08.exe
+E:\2k1s\LAB\OOP\LAB_08\LAB_08\obj\Debug\LAB_08.pdb
