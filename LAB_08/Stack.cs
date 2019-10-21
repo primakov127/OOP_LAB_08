@@ -98,8 +98,9 @@ namespace LAB_08
             {
 
                 bf.Serialize(fs, items);
-
+                fs.Close();
             }
+            
 
         }
 
@@ -114,8 +115,9 @@ namespace LAB_08
                     if (p == null)
                         continue;
                     this.Push(p);
+                    
                 }
-
+                fs.Close();
             }
         }
 
